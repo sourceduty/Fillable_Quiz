@@ -22,5 +22,10 @@ Fill in the blanks:
 6. _______ (noun)
 7. _______ (verb)
 
+#
+### Related Links
+
+[Spelling Solver](https://github.com/sourceduty/Spelling_Solver)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
