@@ -1,6 +1,6 @@
 ![Fillable Quiz](https://github.com/sourceduty/Fillable_Quiz/assets/123030236/82d507b2-20b0-49bb-9a49-a969cfa8dfcf)
 
-[Fillable Quiz](https://chat.openai.com/g/g-LCVcJoVTY-fillable-quiz) is a specialized tool designed to assist users by editing uploaded documents and text files to create educational fill-in-the-blank challenges. It removes specified words or sentences and replaces them with blank spaces, which can then be used for learning or testing purposes. Additionally, Fillable Quiz can generate fill-in-the-blank challenges based on the content of the documents, enhancing the learning experience by offering tests with varying levels of difficulty: easy, medium, hard, or very hard.
+[Fillable Quiz](https://chat.openai.com/g/g-LCVcJoVTY-fillable-quiz) is a specialized tool designed to assist users by editing uploaded documents and text files to create educational fill-in-the-blank challenges. It removes specified words or sentences and replaces them with blank spaces, which can then be used for learning or testing purposes. Additionally, Fillable Quiz can generate new fill-in-the-blank challenges, enhancing the learning experience by offering tests with varying levels of difficulty: easy, medium, hard, or very hard.
 
 #
 ### Example Usage
